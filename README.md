@@ -1,4 +1,6 @@
-titanic-crash-analytics-
+titanic-crash-analytics:
+
+![image.jpg](titanic.jpg)
 
 # Analysis of  passenger titanic crash data
 
